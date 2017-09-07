@@ -1,3 +1,3 @@
 ### Scrolling
 
-Some things to help with scrollling.
+Some things to help with scrolling.
